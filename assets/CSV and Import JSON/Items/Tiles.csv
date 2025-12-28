@@ -1,0 +1,28 @@
+﻿Name,Description,Cost,Path
+Apple Trap,Stepping on this trap changes an Item in the Toolbox into a Big Apple,,Traps/Apple%20Trap.jpg
+Big Blast Trap,"Stepping on this trap causes a huge blast within a 2-tile range, dealing 5d6 Fire Type Damage.",,Traps/Big%20Blast%20Trap.jpg
+Blast Trap,"Stepping on this trap causes a blast within a 1-tile range, dealing 3d6 Fire-Type Damage.",,Traps/Blast%20Trap.jpg
+Grimy Trap,"Stepping on this trap causes Food Items in the Toolbox will become Grimy Food. Roll a d6. On a 1-2, 1 Food is Grimy. On a 3-4, 2 Foods are Grimy. On a 5-6, 3 Foods are Grimy. Held Food will become Grimy Food. ",,Traps/Grimy%20Trap.jpg
+Grudge Trap,Stepping on this trap causes enemy Pokémon on the Floor to arrive near you and hold a Grudge. You expend 3PP per Move you use on these Pokémon.,,Traps/Grudge%20Trap.jpg
+Gust Trap,"Stepping on this trap sends you flying in a direction for 10 Tiles, doing 2d6 damage when you impact a wall or other Pokémon. If you hit another Pokémon,  it also does 2d6 damage to them.",,Traps/Gust%20Trap.jpg
+Hunger Trap,"Stepping on this trap empties your Belly, and you now treat your Belly as if you hadn’t eaten in 2 days.",,Traps/Hunger%20Trap.jpg
+Mud Trap,Stepping on this trap causes the Blinded Condition.,,Traps/Mud%20Trap.jpg
+Pitfall Trap,Stepping on this trap causes you to fall from a Medium Height into a Pit. You can climb out of a Pitfall Trap with a Strength or Movement check. Flying-Type and Levitating Pokémon cannot be affected by this trap.,,Traps/Pitfall%20Trap.jpg
+Poison Trap,Stepping on this trap causes the Poisoned Condition.,,Traps/Poison%20Trap.jpg
+Pokemon Trap,Stepping on this trap transforms nearby Items on the ground into enemy Pokémon.,,Traps/Pokemon%20Trap.jpg
+PP Leech Trap,Stepping on this trap lowers the PP of one of your moves to 0.,,Traps/PP%20Leech%20Trap.jpg
+Random Trap,Stepping on this trap has a random effect on your party. This turns the trap into any other trap.,,Traps/Random%20Trap.jpg
+Seal Trap,Stepping on this trap seals one move so you can't use it until restored.,,Traps/Seal%20Trap.jpg
+Slow Trap,Stepping on this trap lowers your Movement Modifier by 6.,,Traps/Slow%20Trap.jpg
+Slumber Trap,Stepping on this trap causes the Asleep Condition.,,Traps/Slumber%20Trap.jpg
+Spikes,Stepping on this trap places spikes on 3 tiles in 2-tile radius that damages if the Pokémon enters the same Tile. Spikes can be stacked up to 3 times. Flying Pokémon and those that Levitate are unaffected.,,Traps/Spikes.jpg
+Spikey Trap,"Stepping on this trap drops Spikes on you, causing 25 damage.",,Traps/Spikey%20Trap.jpg
+Spin Trap,Stepping on this trap causes the Confused Condition.,,Traps/Spin%20Trap.jpg
+Stealth Rocks,Stepping on this trap places rocks on 3 tiles in a 2-tile radius that damages if the Pokémon occupies the same tile. Can deal supereffective/not very effective damage.,,Traps/Stealth%20Rocks.jpg
+Sticky Trap,An Item becomes Sticky. Sticky Items can be cleansed by leaving the Dungeon or using a Cleanse Orb.,,Traps/Sticky%20Trap.jpg
+Summon Trap,Stepping on this trap causes a group of enemy Pokémon to appear around you.,,Traps/Summon%20Trap.jpg
+Toxic Spikes,"Stepping on this trap places 3 spikes in a 2-tile radius that Poison if the Pokémon enters the same tile. Can be stacked, causing Badly Poisoned. Flying Pokémon and those that Levitate are unaffected.",,Traps/Toxic%20Spikes.jpg
+Trip Trap,Stepping on this trap makes you drop your Held Item.,,Traps/Trip%20Trap.jpg
+Warp Trap,Stepping on this trap warps you to somewhere else on the Floor.,,Traps/Warp%20Trap.jpg
+Wonder Tile,Stepping on this tile resets and Stat Changes.,,Traps/Wonder%20Tile.jpg
+Hazard Tile,Used to Mark a Hazard. See Nearby Tiles.,,Traps/Hazard%20Tile.png

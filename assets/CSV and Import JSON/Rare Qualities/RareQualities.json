@@ -1,0 +1,432 @@
+{
+  "name": "{{{Name}}}",
+  "type": "equippableItem",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "body": {
+      "contents": [
+        {
+          "key": "",
+          "colSpan": 1,
+          "rowSpan": 1,
+          "cssClass": "",
+          "role": 0,
+          "editRole": 0,
+          "permission": 0,
+          "tooltip": null,
+          "visibilityFormula": null,
+          "escapeHTML": false,
+          "type": "panel",
+          "contents": [
+            {
+              "key": "",
+              "colSpan": 1,
+              "rowSpan": 1,
+              "cssClass": "",
+              "role": 0,
+              "editRole": 0,
+              "permission": 0,
+              "tooltip": "",
+              "visibilityFormula": "",
+              "escapeHTML": false,
+              "type": "label",
+              "size": "full-size",
+              "icon": "",
+              "value": "Move",
+              "prefix": "",
+              "suffix": "",
+              "rollMessage": "",
+              "altRollMessage": "",
+              "rollMessageToChat": true,
+              "altRollMessageToChat": true,
+              "style": "bold"
+            },
+            {
+              "key": "",
+              "colSpan": 1,
+              "rowSpan": 1,
+              "cssClass": "",
+              "role": 0,
+              "editRole": 0,
+              "permission": 0,
+              "tooltip": "",
+              "visibilityFormula": "",
+              "escapeHTML": false,
+              "type": "table",
+              "contents": [
+                [
+                  {
+                    "key": "",
+                    "colSpan": 1,
+                    "rowSpan": 1,
+                    "cssClass": "",
+                    "role": 0,
+                    "editRole": 0,
+                    "permission": 0,
+                    "tooltip": "",
+                    "visibilityFormula": "",
+                    "escapeHTML": false,
+                    "type": "label",
+                    "size": "full-size",
+                    "icon": "",
+                    "value": "Effect",
+                    "prefix": "",
+                    "suffix": "",
+                    "rollMessage": "",
+                    "altRollMessage": "",
+                    "rollMessageToChat": true,
+                    "altRollMessageToChat": true,
+                    "style": "bold"
+                  },
+                  {
+                    "key": "",
+                    "colSpan": 1,
+                    "rowSpan": 1,
+                    "cssClass": "",
+                    "role": 0,
+                    "editRole": 0,
+                    "permission": 0,
+                    "tooltip": "",
+                    "visibilityFormula": "",
+                    "escapeHTML": false,
+                    "type": "panel",
+                    "contents": [
+                      {
+                        "key": "Effect",
+                        "colSpan": 1,
+                        "rowSpan": 1,
+                        "cssClass": "",
+                        "role": 0,
+                        "editRole": 0,
+                        "permission": 0,
+                        "tooltip": "",
+                        "visibilityFormula": "edit",
+                        "escapeHTML": false,
+                        "type": "textField",
+                        "size": "full-size",
+                        "label": "",
+                        "defaultValue": "",
+                        "charList": "",
+                        "maxLength": null,
+                        "autocomplete": ""
+                      },
+                      {
+                        "key": "",
+                        "colSpan": 1,
+                        "rowSpan": 1,
+                        "cssClass": "",
+                        "role": 0,
+                        "editRole": 0,
+                        "permission": 0,
+                        "tooltip": "",
+                        "visibilityFormula": "not(edit)",
+                        "escapeHTML": false,
+                        "type": "label",
+                        "size": "full-size",
+                        "icon": "",
+                        "value": "${Effect}$",
+                        "prefix": "",
+                        "suffix": "",
+                        "rollMessage": "",
+                        "altRollMessage": "",
+                        "rollMessageToChat": true,
+                        "altRollMessageToChat": true,
+                        "style": "label"
+                      }
+                    ],
+                    "flow": "vertical",
+                    "align": "center",
+                    "collapsible": false,
+                    "defaultCollapsed": true,
+                    "title": "",
+                    "titleStyle": "default"
+                  }
+                ],
+                [
+                  {
+                    "key": "",
+                    "colSpan": 1,
+                    "rowSpan": 1,
+                    "cssClass": "",
+                    "role": 0,
+                    "editRole": 0,
+                    "permission": 0,
+                    "tooltip": "",
+                    "visibilityFormula": "",
+                    "escapeHTML": false,
+                    "type": "label",
+                    "size": "full-size",
+                    "icon": "",
+                    "value": "Prerequisite",
+                    "prefix": "",
+                    "suffix": "",
+                    "rollMessage": "",
+                    "altRollMessage": "",
+                    "rollMessageToChat": true,
+                    "altRollMessageToChat": true,
+                    "style": "bold"
+                  },
+                  {
+                    "key": "",
+                    "colSpan": 1,
+                    "rowSpan": 1,
+                    "cssClass": "",
+                    "role": 0,
+                    "editRole": 0,
+                    "permission": 0,
+                    "tooltip": "",
+                    "visibilityFormula": "",
+                    "escapeHTML": false,
+                    "type": "panel",
+                    "contents": [
+                      {
+                        "key": "Prerequisite",
+                        "colSpan": 1,
+                        "rowSpan": 1,
+                        "cssClass": "",
+                        "role": 0,
+                        "editRole": 0,
+                        "permission": 0,
+                        "tooltip": "",
+                        "visibilityFormula": "edit",
+                        "escapeHTML": false,
+                        "type": "textField",
+                        "size": "full-size",
+                        "label": "",
+                        "defaultValue": "",
+                        "charList": "",
+                        "maxLength": null,
+                        "autocomplete": ""
+                      },
+                      {
+                        "key": "",
+                        "colSpan": 1,
+                        "rowSpan": 1,
+                        "cssClass": "",
+                        "role": 0,
+                        "editRole": 0,
+                        "permission": 0,
+                        "tooltip": "",
+                        "visibilityFormula": "not(edit)",
+                        "escapeHTML": false,
+                        "type": "label",
+                        "size": "full-size",
+                        "icon": "",
+                        "value": "${Prerequisite}$",
+                        "prefix": "",
+                        "suffix": "",
+                        "rollMessage": "",
+                        "altRollMessage": "",
+                        "rollMessageToChat": true,
+                        "altRollMessageToChat": true,
+                        "style": "label"
+                      }
+                    ],
+                    "flow": "vertical",
+                    "align": "center",
+                    "collapsible": false,
+                    "defaultCollapsed": true,
+                    "title": "",
+                    "titleStyle": "default"
+                  }
+                ],
+                [
+                  {
+                    "key": "",
+                    "colSpan": 1,
+                    "rowSpan": 1,
+                    "cssClass": "",
+                    "role": 0,
+                    "editRole": 0,
+                    "permission": 0,
+                    "tooltip": "",
+                    "visibilityFormula": "",
+                    "escapeHTML": false,
+                    "type": "label",
+                    "size": "full-size",
+                    "icon": "",
+                    "value": "Level Prerequisite",
+                    "prefix": "",
+                    "suffix": "",
+                    "rollMessage": "",
+                    "altRollMessage": "",
+                    "rollMessageToChat": true,
+                    "altRollMessageToChat": true,
+                    "style": "bold"
+                  },
+                  {
+                    "key": "",
+                    "colSpan": 1,
+                    "rowSpan": 1,
+                    "cssClass": "",
+                    "role": 0,
+                    "editRole": 0,
+                    "permission": 0,
+                    "tooltip": "",
+                    "visibilityFormula": "",
+                    "escapeHTML": false,
+                    "type": "panel",
+                    "contents": [
+                      {
+                        "key": "Level",
+                        "colSpan": 1,
+                        "rowSpan": 1,
+                        "cssClass": "",
+                        "role": 0,
+                        "editRole": 0,
+                        "permission": 0,
+                        "tooltip": "",
+                        "visibilityFormula": "edit",
+                        "escapeHTML": false,
+                        "type": "numberField",
+                        "size": "full-size",
+                        "label": "",
+                        "defaultValue": "",
+                        "allowDecimal": false,
+                        "minVal": "3",
+                        "maxVal": "9",
+                        "allowRelative": false,
+                        "showControls": false,
+                        "controlsStyle": "hover",
+                        "controlsCustomIncrements": "",
+                        "inputStyle": "text"
+                      },
+                      {
+                        "key": "",
+                        "colSpan": 1,
+                        "rowSpan": 1,
+                        "cssClass": "",
+                        "role": 0,
+                        "editRole": 0,
+                        "permission": 0,
+                        "tooltip": "",
+                        "visibilityFormula": "not(edit)",
+                        "escapeHTML": false,
+                        "type": "label",
+                        "size": "full-size",
+                        "icon": "",
+                        "value": "${Level}$",
+                        "prefix": "",
+                        "suffix": "",
+                        "rollMessage": "",
+                        "altRollMessage": "",
+                        "rollMessageToChat": true,
+                        "altRollMessageToChat": true,
+                        "style": "label"
+                      }
+                    ],
+                    "flow": "vertical",
+                    "align": "center",
+                    "collapsible": false,
+                    "defaultCollapsed": true,
+                    "title": "",
+                    "titleStyle": "default"
+                  }
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ]
+              ],
+              "cols": 2,
+              "rows": 3,
+              "layout": "cc"
+            }
+          ],
+          "flow": "vertical",
+          "align": "center",
+          "collapsible": false,
+          "defaultCollapsed": true,
+          "title": "",
+          "titleStyle": "default"
+        }
+      ],
+      "key": "custom_body",
+      "type": "panel"
+    },
+    "display": {
+      "width": 600,
+      "height": 600,
+      "fix_size": false,
+      "pp_width": 64,
+      "pp_height": 64
+    },
+    "header": {
+      "contents": [
+        {
+          "key": "edit",
+          "colSpan": 1,
+          "rowSpan": 1,
+          "cssClass": "",
+          "role": 3,
+          "editRole": 3,
+          "permission": 0,
+          "tooltip": "",
+          "visibilityFormula": "",
+          "escapeHTML": false,
+          "type": "checkbox",
+          "size": "full-size",
+          "label": "Edit: ",
+          "defaultChecked": false
+        }
+      ],
+      "key": "custom_header",
+      "type": "panel"
+    },
+    "hidden": [],
+    "modifiers": [],
+    "props": {
+      "edit": false,
+      "Effect": "{{{Effect}}}",
+      "Prerequisite": "{{{Pre}}}",
+      "Level": "{{Level}}"
+    },
+    "unique": false,
+    "templateSystemUniqueVersion": 3337496165,
+    "template": "ekU9vxJUk7Ov2A9F"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "custom-system-builder": {
+      "version": "5.0.2"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": {
+      "worldId": "explorers-a-pmd-rpg",
+      "uuid": "Item.apTr2orlLsDqUMzV",
+      "coreVersion": "13.351",
+      "systemId": "custom-system-builder",
+      "systemVersion": "5.0.2"
+    },
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.0.2",
+    "createdTime": 1766882405585,
+    "modifiedTime": 1766883307307,
+    "lastModifiedBy": "t35Yr4P73eVHn3hd"
+  },
+  "items": [],
+  "ownership": {
+    "default": 0
+  }
+}

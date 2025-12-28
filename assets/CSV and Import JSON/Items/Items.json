@@ -1,0 +1,343 @@
+{
+  "name": "{{Name}}",
+  "type": "equippableItem",
+  "img": "assets/Explorers%20A%20PMD%20RPG/Icons/Items/{{Path}}",
+  "system": {
+    "body": {
+      "contents": [
+        {
+          "key": "",
+          "colSpan": 1,
+          "rowSpan": 1,
+          "cssClass": "",
+          "role": 0,
+          "editRole": 0,
+          "permission": 0,
+          "tooltip": null,
+          "visibilityFormula": null,
+          "escapeHTML": false,
+          "type": "panel",
+          "contents": [
+            {
+              "key": "",
+              "colSpan": 1,
+              "rowSpan": 1,
+              "cssClass": "",
+              "role": 0,
+              "editRole": 0,
+              "permission": 0,
+              "tooltip": "",
+              "visibilityFormula": "",
+              "escapeHTML": false,
+              "type": "label",
+              "size": "full-size",
+              "icon": "",
+              "value": "Item",
+              "prefix": "",
+              "suffix": "",
+              "rollMessage": "",
+              "altRollMessage": "",
+              "rollMessageToChat": true,
+              "altRollMessageToChat": true,
+              "style": "bold"
+            },
+            {
+              "key": "",
+              "colSpan": 1,
+              "rowSpan": 1,
+              "cssClass": "",
+              "role": 0,
+              "editRole": 0,
+              "permission": 0,
+              "tooltip": "",
+              "visibilityFormula": "",
+              "escapeHTML": false,
+              "type": "table",
+              "contents": [
+                [
+                  {
+                    "key": "",
+                    "colSpan": 1,
+                    "rowSpan": 1,
+                    "cssClass": "",
+                    "role": 0,
+                    "editRole": 0,
+                    "permission": 0,
+                    "tooltip": "",
+                    "visibilityFormula": "",
+                    "escapeHTML": false,
+                    "type": "label",
+                    "size": "full-size",
+                    "icon": "",
+                    "value": "Description/Effect",
+                    "prefix": "",
+                    "suffix": "",
+                    "rollMessage": "",
+                    "altRollMessage": "",
+                    "rollMessageToChat": true,
+                    "altRollMessageToChat": true,
+                    "style": "bold"
+                  },
+                  {
+                    "key": "",
+                    "colSpan": 1,
+                    "rowSpan": 1,
+                    "cssClass": "",
+                    "role": "0",
+                    "editRole": 0,
+                    "permission": "0",
+                    "tooltip": "",
+                    "visibilityFormula": "",
+                    "escapeHTML": false,
+                    "type": "panel",
+                    "contents": [
+                      {
+                        "key": "Description",
+                        "colSpan": 1,
+                        "rowSpan": 1,
+                        "cssClass": "",
+                        "role": 0,
+                        "editRole": 0,
+                        "permission": 0,
+                        "tooltip": "",
+                        "visibilityFormula": "edit",
+                        "escapeHTML": false,
+                        "type": "textField",
+                        "size": "full-size",
+                        "label": "",
+                        "defaultValue": "",
+                        "charList": "",
+                        "maxLength": null,
+                        "autocomplete": ""
+                      },
+                      {
+                        "key": "",
+                        "colSpan": 1,
+                        "rowSpan": 1,
+                        "cssClass": "",
+                        "role": 0,
+                        "editRole": 0,
+                        "permission": 0,
+                        "tooltip": "",
+                        "visibilityFormula": "not(edit)",
+                        "escapeHTML": false,
+                        "type": "label",
+                        "size": "full-size",
+                        "icon": "",
+                        "value": "${Description}$",
+                        "prefix": "",
+                        "suffix": "",
+                        "rollMessage": "",
+                        "altRollMessage": "",
+                        "rollMessageToChat": true,
+                        "altRollMessageToChat": true,
+                        "style": "bold"
+                      }
+                    ],
+                    "flow": "vertical",
+                    "align": "center",
+                    "collapsible": false,
+                    "defaultCollapsed": true,
+                    "title": "",
+                    "titleStyle": "default"
+                  }
+                ],
+                [
+                  {
+                    "key": "",
+                    "colSpan": 1,
+                    "rowSpan": 1,
+                    "cssClass": "",
+                    "role": 0,
+                    "editRole": 0,
+                    "permission": 0,
+                    "tooltip": "",
+                    "visibilityFormula": "",
+                    "escapeHTML": false,
+                    "type": "label",
+                    "size": "full-size",
+                    "icon": "",
+                    "value": "Cost/Sell Price (If Applicable)",
+                    "prefix": "",
+                    "suffix": "",
+                    "rollMessage": "",
+                    "altRollMessage": "",
+                    "rollMessageToChat": true,
+                    "altRollMessageToChat": true,
+                    "style": "bold"
+                  },
+                  {
+                    "key": "",
+                    "colSpan": 1,
+                    "rowSpan": 1,
+                    "cssClass": "",
+                    "role": 0,
+                    "editRole": 0,
+                    "permission": 0,
+                    "tooltip": "",
+                    "visibilityFormula": "",
+                    "escapeHTML": false,
+                    "type": "panel",
+                    "contents": [
+                      {
+                        "key": "Cost",
+                        "colSpan": 1,
+                        "rowSpan": 1,
+                        "cssClass": "",
+                        "role": 0,
+                        "editRole": 0,
+                        "permission": 0,
+                        "tooltip": "",
+                        "visibilityFormula": "edit",
+                        "escapeHTML": false,
+                        "type": "textField",
+                        "size": "full-size",
+                        "label": "",
+                        "defaultValue": "",
+                        "charList": "",
+                        "maxLength": null,
+                        "autocomplete": ""
+                      },
+                      {
+                        "key": "",
+                        "colSpan": 1,
+                        "rowSpan": 1,
+                        "cssClass": "",
+                        "role": 0,
+                        "editRole": 0,
+                        "permission": 0,
+                        "tooltip": "",
+                        "visibilityFormula": "not(edit)",
+                        "escapeHTML": false,
+                        "type": "label",
+                        "size": "full-size",
+                        "icon": "",
+                        "value": "${Cost}$",
+                        "prefix": "",
+                        "suffix": "",
+                        "rollMessage": "",
+                        "altRollMessage": "",
+                        "rollMessageToChat": true,
+                        "altRollMessageToChat": true,
+                        "style": "label"
+                      }
+                    ],
+                    "flow": "vertical",
+                    "align": "center",
+                    "collapsible": false,
+                    "defaultCollapsed": true,
+                    "title": "",
+                    "titleStyle": "default"
+                  }
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ]
+              ],
+              "cols": 2,
+              "rows": 2,
+              "layout": "cc"
+            }
+          ],
+          "flow": "vertical",
+          "align": "center",
+          "collapsible": false,
+          "defaultCollapsed": true,
+          "title": "",
+          "titleStyle": "default"
+        }
+      ],
+      "key": "custom_body",
+      "type": "panel"
+    },
+    "display": {
+      "width": 600,
+      "height": 600,
+      "fix_size": false,
+      "pp_width": 64,
+      "pp_height": 64
+    },
+    "header": {
+      "contents": [
+        {
+          "key": "edit",
+          "colSpan": 1,
+          "rowSpan": 1,
+          "cssClass": "",
+          "role": 3,
+          "editRole": 3,
+          "permission": 3,
+          "tooltip": "",
+          "visibilityFormula": "",
+          "escapeHTML": false,
+          "type": "checkbox",
+          "size": "full-size",
+          "label": "Edit: ",
+          "defaultChecked": false
+        }
+      ],
+      "key": "custom_header",
+      "type": "panel"
+    },
+    "hidden": [],
+    "modifiers": [],
+    "props": {
+      "edit": false,
+      "Description": "{{Description}}",
+      "Cost": "{{Cost}}"
+    },
+    "unique": false,
+    "templateSystemUniqueVersion": 365304647,
+    "uniqueId": "flo3hx9YXaTEdHEQ",
+    "template": "rLOLZXa6hQX71mL8"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "custom-system-builder": {
+      "version": "5.0.2"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": {
+      "worldId": "explorers-a-pmd-rpg",
+      "uuid": "Item.flo3hx9YXaTEdHEQ",
+      "coreVersion": "13.351",
+      "systemId": "custom-system-builder",
+      "systemVersion": "5.0.2"
+    },
+    "coreVersion": "13.351",
+    "systemId": "custom-system-builder",
+    "systemVersion": "5.0.2",
+    "createdTime": 1766877014699,
+    "modifiedTime": 1766878404787,
+    "lastModifiedBy": "t35Yr4P73eVHn3hd"
+  },
+  "items": [],
+  "ownership": {
+    "default": 0
+  }
+}
