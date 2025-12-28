@@ -2,8 +2,6 @@
   "id": "explorers-a-pmd-rpg",
   "title": "Explorers! A PMD RPG",
   "version": "1.1",
-  "manifest":"https://github.com/Josh19002/explorers-a-pmd-rpg-csb/releases/latest/download/module.json",
-  "protected": true,
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -41,5 +39,7 @@
       }
     ]
   },
-  "url": "https://github.com/Josh19002/explorers-a-pmd-rpg-csb"
+  "url": "https://github.com/Josh19002/explorers-a-pmd-rpg-csb",
+  "manifest":"https://github.com/Josh19002/explorers-a-pmd-rpg-csb/releases/latest/download/module.json",
+  "download":"https://github.com/Josh19002/explorers-a-pmd-rpg-csb/releases/download/v1.1/explorers-a-pmd-rpg-csb.zip"
 }
