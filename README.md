@@ -49,3 +49,5 @@ Thanks to Sangria for the basic coding of the character sheet and some of the ro
 - Foundry VTT: https://foundryvtt.com/
 
 - Custom System Builder: https://gitlab.com/custom-system-builder/custom-system-builder or https://foundryvtt.com/packages/custom-system-builder
+
+- Sangria’s Mystery Dungeon GM Screen: https://docs.google.com/spreadsheets/d/1BbmsdYxP3w0yXEtRyIZ16MJybHmjYoZULsp6UlqCQls/edit?gid=76259870#gid=76259870
