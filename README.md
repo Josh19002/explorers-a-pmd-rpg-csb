@@ -44,6 +44,8 @@ Thanks to Sangria for the basic coding of the character sheet and some of the ro
 
 - Explorers! A PMD RPG Site: https://www.explorers-pmd-rpg.com/
 
+- PMDCollab SpriteCollab: https://sprites.pmdcollab.org/#/About
+
 - Foundry VTT: https://foundryvtt.com/
 
 - Custom System Builder: https://gitlab.com/custom-system-builder/custom-system-builder or https://foundryvtt.com/packages/custom-system-builder
