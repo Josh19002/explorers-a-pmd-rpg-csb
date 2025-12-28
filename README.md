@@ -38,7 +38,7 @@ An Adventure containing the following:
 
 # Thanks
 
-Thanks to Sangria for the basic coding of the character sheet and some of the rollable tables, and Harper Alistair Pleasant for the creation of this wonderful TTRPG!
+Thanks to Sangria for the basic coding of the character sheet and some of the rollable tables, PMD SpriteCollab for the character portraits, and Harper Alistair Pleasant for the creation of this wonderful TTRPG!
 
 # Links
 
