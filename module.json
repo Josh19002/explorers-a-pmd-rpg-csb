@@ -1,0 +1,45 @@
+{
+  "id": "explorers-a-pmd-rpg",
+  "title": "Explorers! A PMD RPG",
+  "version": "1.1",
+  "manifest":"",
+  "protected": true,
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "description": "<p>A Custom System Builder Module for Explorers! A PMD RPG.</p><hr /><h1>Note</h1><p>This is largely just an organizational tool for character sheets and map creation. It is not fully realized into a complete package. You are welcome to continue modifying this as necessary.</p><p>This is built to largely follow the 1.1 Edition of Explorers! A PMD RPG.</p><hr /><h1>About The Game</h1><p>Explorers! A PMD RPG is a free indie TTRPG project created by a fan, for fans. This system aims to translate the experience of the Pokemon Mystery Dungeon games to your tabletop (or virtual tabletop) so you and you friends can experience a fantastic adventure together.</p><hr /><h1>Package Contents</h1><p>An Adventure containing the following:</p><ul><li><p>Items (Equipable Item)</p></li><li><p>Moves (Equipable Item)</p></li><li><p>Rare Qualities (Equipable Item)</p></li><li><p>Character Sheet Template (Character Sheet)</p></li><li><p>Team Template (Character Sheet)</p></li><li><p>Bank and Storage Template (Character Sheet)</p></li><li><p>Rollable Tables</p></li><li><p>Title Screen (Scene)</p></li><li><p>Game Documentation (Journal)</p></li><li><p>All Required Assets</p></li></ul><hr /><h1>Thanks</h1><p>Thanks to Sangria for the basic coding of the character sheet and some of the rollable tables, PMD SpriteCollab for the character portraits, and Harper Alistair Pleasant for the creation of this wonderful TTRPG!</p><hr /><h1>Links</h1><ul><li><p dir=\"auto\" style=\"box-sizing:border-box;margin-top:16px;margin-bottom:16px\"><span dir=\"auto\" style=\"box-sizing:border-box;padding-left:2em;margin-top:0px;margin-bottom:0px !important;color:rgb(240, 246, 252);font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';font-size:16px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(13, 17, 23);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\">Explorers! A PMD RPG Site: <a href=\"https://www.explorers-pmd-rpg.com/\" rel=\"nofollow\" style=\"box-sizing:border-box;background-color:rgba(0, 0, 0, 0);color:rgb(68, 147, 248);text-decoration:underline;text-underline-offset:0.2rem\"><span style=\"text-decoration:underline\">https://www.explorers-pmd-rpg.com/</span></a></span></p></li><li><p dir=\"auto\" style=\"box-sizing:border-box;margin-top:16px;margin-bottom:16px\"><span dir=\"auto\" style=\"box-sizing:border-box;padding-left:2em;margin-top:0px;margin-bottom:0px !important;color:rgb(240, 246, 252);font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';font-size:16px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(13, 17, 23);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\">PMDCollab SpriteCollab: <a href=\"https://sprites.pmdcollab.org/#/About\" rel=\"nofollow\" style=\"box-sizing:border-box;background-color:rgba(0, 0, 0, 0);color:rgb(68, 147, 248);text-decoration:underline;text-underline-offset:0.2rem\"><span style=\"text-decoration:underline\">https://sprites.pmdcollab.org/#/About</span></a></span></p></li><li><p dir=\"auto\" style=\"box-sizing:border-box;margin-top:16px;margin-bottom:16px\"><span dir=\"auto\" style=\"box-sizing:border-box;padding-left:2em;margin-top:0px;margin-bottom:0px !important;color:rgb(240, 246, 252);font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';font-size:16px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(13, 17, 23);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\">Foundry VTT: <a href=\"https://foundryvtt.com/\" rel=\"nofollow\" style=\"box-sizing:border-box;background-color:rgba(0, 0, 0, 0);color:rgb(68, 147, 248);text-decoration:underline;text-underline-offset:0.2rem\"><span style=\"text-decoration:underline\">https://foundryvtt.com/</span></a></span></p></li><li><p dir=\"auto\" style=\"box-sizing:border-box;margin-top:16px;margin-bottom:16px\"><span dir=\"auto\" style=\"box-sizing:border-box;padding-left:2em;margin-top:0px;margin-bottom:0px !important;color:rgb(240, 246, 252);font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';font-size:16px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(13, 17, 23);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\">Custom System Builder: <a href=\"https://gitlab.com/custom-system-builder/custom-system-builder\" rel=\"nofollow\" style=\"box-sizing:border-box;background-color:rgba(0, 0, 0, 0);color:rgb(68, 147, 248);text-decoration:underline;text-underline-offset:0.2rem\"><span style=\"text-decoration:underline\">https://gitlab.com/custom-system-builder/custom-system-builder</span></a> or <a href=\"https://foundryvtt.com/packages/custom-system-builder\" rel=\"nofollow\" style=\"box-sizing:border-box;background-color:rgba(0, 0, 0, 0);color:rgb(68, 147, 248);text-decoration:underline;text-underline-offset:0.2rem\"><span style=\"text-decoration:underline\">https://foundryvtt.com/packages/custom-system-builder</span></a></span></p></li></ul>",
+  "authors": [
+    {
+      "name": "Joshua Herman",
+      "url": "https://github.com/Josh19002",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "Explorers_A_PMD_RPG",
+      "label": "Explorers! A PMD RPG",
+      "path": "packs/Explorers_A_PMD_RPG",
+      "type": "Adventure",
+      "system": "custom-system-builder",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "custom-system-builder",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "url": "https://github.com/Josh19002/explorers-a-pmd-rpg-csb"
+}
